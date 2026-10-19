@@ -1,14 +1,16 @@
 {
-  "name" : "Name of your Mod",
-  "id" : "com.github.your-github-name.your-repo-name",
-  "version" : "0.1.0",
-  "game_id" : "victoria3",
-  "picture" : "thumbnail.png",
-  "supported_game_version" : "1.14.*",
-  "short_description" : "",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
-    "multiplayer_synchronized" : true
+  "name": "Secession Aftermath",
+  "id": "com.github.pineapplePastry.vic3_sucession_aftermath",
+  "version": "0.1.0",
+  "game_id": "victoria3",
+  "picture": "thumbnail.png",
+  "supported_game_version": "1.14.*",
+  "short_description": "",
+  "tags": [
+    "Events"
+  ],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true
   }
 }
